@@ -4,6 +4,8 @@ Movie Recommendation System using SVD
 This project implements a Movie Recommendation System using Singular Value Decomposition (SVD) to predict ratings and recommend movies to users based on their past interactions. The system employs collaborative filtering to suggest movies that a user might enjoy, even if they haven't rated them yet.
 
 Table of Contents
+
+
 Data Preprocessing
 
 Collaborative Filtering with SVD
